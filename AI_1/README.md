@@ -1,6 +1,10 @@
 Artificial Intelligence 1
 =======================
 
+This repository contains all the course labs for the first semester of TJHSST's Artificial Intelligence (AI) Course.
+
+AI 1 was taken during Fall 2011 at TJHSST with [Dr. Shane Torbert] (http://www.tjhsst.edu/~smtorbert/).
+
 Topics in this course include:
 
 1. [Word Neighbors] (Lab01/)

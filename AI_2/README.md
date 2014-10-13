@@ -1,6 +1,10 @@
 Artificial Intelligence 2
 =======================
 
+This repository contains all the course labs for the second semester of TJHSST's Artificial Intelligence (AI) Course.
+
+AI 2 was taken during Spring 2012 at TJHSST with [Dr. Shane Torbert] (http://www.tjhsst.edu/~smtorbert/).
+
 Topics in this course include:
 
 1. [Sobel Edge Detection] (Lab11/)
